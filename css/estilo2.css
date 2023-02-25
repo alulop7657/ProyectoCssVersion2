@@ -1,0 +1,35 @@
+/*INDICE */
+#cabecera{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+h1{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:visited{
+    color: black;
+}
+
+li{
+    list-style:square;
+}
+
+/* FORMULA 1 */
+table{
+    table-layout: auto;
+    border-collapse: separate;
+    border-spacing: 50px 10px;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    text-decoration-color: red;
+}
+
